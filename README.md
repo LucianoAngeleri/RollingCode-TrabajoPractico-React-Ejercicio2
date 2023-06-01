@@ -40,9 +40,10 @@ Después de haber instalado las dependencias, sigue los siguientes pasos para ej
     npm run dev
     ```
 
-2. Abre tu navegador web y ve a la siguiente dirección:
-
-    [http://localhost:3000](http://localhost:3000)
+2. Abre tu navegador web y ve a la dirección que aparece en la terminal, deberia ser algo como:
+    ```
+    http://localhost:5173/
+    ```
 
 ## Uso
 
